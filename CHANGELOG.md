@@ -16,13 +16,13 @@
 
 **Impact:**
 - The GitHub Pages site will no longer be accessible via the custom domain `timelesscreation.me`
-- The site will revert to the default GitHub Pages URL: `https://mnm-musharraf.github.io`
+- The site will revert to the default GitHub Pages URL: `https://mnm-musharraf.github.io/`
 - Any external links or bookmarks pointing to `timelesscreation.me` will no longer resolve to this site
 - DNS records configured for `timelesscreation.me` will need to be updated or removed
 - Users attempting to access the site via the custom domain will encounter DNS resolution failures
 
 **Migration Required:**
-- Update all references from `timelesscreation.me` to `https://mnm-musharraf.github.io`
+- Update all references from `timelesscreation.me` to `https://mnm-musharraf.github.io/`
 - Notify users of the domain change
 - Update any external services or integrations using the old domain
 

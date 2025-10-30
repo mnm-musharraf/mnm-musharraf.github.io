@@ -27,7 +27,7 @@ The removal of the CNAME file is a **breaking change** that affects how users ac
 
 #### After:
 - Custom domain is no longer configured
-- Site is only accessible via default GitHub Pages URL: `https://mnm-musharraf.github.io`
+- Site is only accessible via default GitHub Pages URL: `https://mnm-musharraf.github.io/`
 
 #### Impact Assessment:
 
